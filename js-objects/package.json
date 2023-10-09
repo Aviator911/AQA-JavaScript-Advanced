@@ -1,0 +1,14 @@
+{
+  "name": "js-objects",
+  "version": "1.0.0",
+  "main": "objects.js",
+  "scripts": {
+    "objects": "node js-objects/objects.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  },
+  "description": ""
+}
