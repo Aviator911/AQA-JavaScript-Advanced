@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "objects.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "objects": "node js-objects/objects.js"
   },
   "author": "",
   "license": "ISC",
