@@ -39,7 +39,7 @@ class ProductClass {
       this.make = make;
       this.model = model;
       this.year = year;
-      this.speed = 0;
+      this.#speed = 0;
     }
   
     getCarInfo() {
