@@ -57,6 +57,7 @@ class ProductClass {
   }
   
   class AudiClass extends CarClass {
+#color
     constructor(make, model, year, color) {
       super(make, model, year);
       this.#color = color;
