@@ -59,7 +59,7 @@ class ProductClass {
   class AudiClass extends CarClass {
     constructor(make, model, year, color) {
       super(make, model, year);
-      this.color = color;
+      this.#color = color;
     }
   
     getCarInfo() {
