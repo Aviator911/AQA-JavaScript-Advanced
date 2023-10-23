@@ -35,6 +35,7 @@ class ProductClass {
   
   // Таск 4
   class CarClass {
+#speed
     constructor(make, model, year) {
       this.make = make;
       this.model = model;
